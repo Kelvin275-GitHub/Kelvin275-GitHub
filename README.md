@@ -1,16 +1,17 @@
-## Hi there 👋
+kevin mamani
 
-<!--
-**Kelvin275-GitHub/Kelvin275-GitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+°EESTN-1
+
+°edad=17 años
+
+°gmail=
+
+°anime favorito=black clover
+
+°deporte favorito=futbol
+
+°signo zoodiacal=cancer
+
+![php (2)](https://github.com/user-attachments/assets/a7ab4199-a7a9-4d60-b22c-eef9311615a5)  ![java](https://github.com/user-attachments/assets/96835dc8-22af-4611-a7d1-81de5f3abb6c)
